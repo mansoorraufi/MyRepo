@@ -7,6 +7,7 @@ public class Class03 {
 
 		System.out.println("Hello Git Hub");
 		System.out.println("How is going on?");
+		System.out.println("Third Commit");
 	}
 
 }
